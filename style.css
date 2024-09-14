@@ -1,0 +1,96 @@
+body{
+    color: bisque;
+    background: #222;
+    width: 85%;
+    margin: auto;
+}
+header{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 3px 5px 30px bisque , -3px -5px 30px bisque;
+    margin-top: 60px;
+    font-size: large;
+}
+.title1{ 
+    display: inline;
+    position: relative;
+    font-size: xx-large;
+    bottom: 240px;
+    border: bisque 5px solid;
+    padding: 10px;
+    border-radius: 20px;
+    color: #222;
+    background: bisque;
+}
+.title2{
+    display: inline;
+    position: relative;
+    left: 600px;
+    top: 30px;
+    font-size: xx-large;
+    border: bisque 5px solid;
+    padding: 10px;
+    border-radius: 20px;
+    color: #222;
+    background: bisque;
+}
+.photo2{  
+    display: inline;
+    position: relative;
+    top: 110px;
+    left: 600px;
+    box-shadow: 15px 15px 35px gray , -15px -15px 35px gray ;
+    border: 10px solid gray;
+    border-radius: 50px;
+}
+.photo1{
+    display: inline;
+    position: relative;
+    bottom: 150px; 
+    box-shadow: 15px 15px 35px gray , -15px -15px 35px gray ;
+    border: 10px solid gray;
+    border-radius: 50px;
+}
+.phti1{
+    text-align: center;
+    position: relative;
+    top: 700px;
+}
+.phti2{
+    text-align: center;
+    position: relative;
+    right: 600px;
+    top: 100px;
+}
+.DP{
+    display: block;
+    margin: 0 350px;
+    position: relative;
+    bottom: 1030px;
+    font-size: large;
+    font-weight: 600;
+    color: #222;
+    text-decoration-line: none;
+    border: 5px gray solid;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: grey;
+}
+.DP:focus{
+    background: rgba(95, 158, 160, 0.526);
+}
+.DP2{
+    display: block;
+    margin: 0 350px;
+    bottom: 120px;
+    position: relative;
+    font-size: large;
+    font-weight: 600;
+    color: #222;
+    text-decoration-line: none;
+    border: 5px grey solid;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: grey;
+}
+
